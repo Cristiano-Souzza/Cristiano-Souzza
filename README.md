@@ -1,5 +1,4 @@
-# "Olá,sou Cristiano. Estou explorando o ecossistema do GitHub para expandir meu networking e iniciando minha 
-jornada no aprendizado de programação."
+# "Olá,sou Cristiano. Estou explorando o ecossistema do GitHub para expandir meu networking e iniciando minha jornada no aprendizado de #programação."
 
 <!--
 **Cristiano-Souzza/Cristiano-Souzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
