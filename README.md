@@ -1,4 +1,4 @@
-## Hi there 👋
+# "Olá,sou Cristiano,estou aprendendo sobre GitHub para fazer networking,e aprender sobre programação...
 
 <!--
 **Cristiano-Souzza/Cristiano-Souzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
